@@ -2,8 +2,6 @@
 
 This project explores the detection of fake news using **machine learning models based solely on textual content** (titles and article body). We use PySpark pipelines and multiple classification algorithms to build scalable and explainable models for misinformation detection.
 
----
-
 ## Project Structure
 
 Project/  
@@ -70,9 +68,10 @@ Our project aims to develop and compare multiple machine learning models to accu
 ## Authors
 
 Sofia Karanukhova  
+Marcel Tobler
 Tim Gotschim  
 Felix Gehmair  
-Marcel Tobler
+
 
 ## License
 
