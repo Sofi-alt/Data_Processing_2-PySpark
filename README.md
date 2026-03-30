@@ -70,8 +70,8 @@ Our project aims to develop and compare multiple machine learning models to accu
 ## Authors
 
 Sofia Karanukhova  
-Marcel Tobler
-Tim Gotschim
+Marcel Tobler    
+Tim Gotschim    
 Felix Gehmair  
 
 ## License
