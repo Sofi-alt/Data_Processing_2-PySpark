@@ -4,6 +4,7 @@ This project explores the detection of fake news using **machine learning models
 
 ## Project Structure
 
+```
 Project/  
 ├── data/  
 &emsp;├──Fake.csv  
@@ -13,6 +14,7 @@ Project/
 ├── Notebook 2 - Fake News Classification Models.ipynb # Training and evaluating classification models  
 ├── Notebook 3 - Sentiment Analysis.ipynb # Extracting sentiment-based features using TextBlob  
 └── README.md # Project overview and execution guide
+```
 
 ## Requirements
 
