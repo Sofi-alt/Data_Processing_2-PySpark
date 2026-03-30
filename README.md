@@ -74,7 +74,6 @@ Marcel Tobler
 Tim Gotschim  
 Felix Gehmair  
 
-
 ## License
 
 Copyright (c) 2025 
