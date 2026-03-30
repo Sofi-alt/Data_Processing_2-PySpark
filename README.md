@@ -71,8 +71,8 @@ Our project aims to develop and compare multiple machine learning models to accu
 
 Sofia Karanukhova  
 Marcel Tobler    
+Felix Gehmair    
 Tim Gotschim    
-Felix Gehmair  
 
 ## License
 
