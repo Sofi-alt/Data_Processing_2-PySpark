@@ -67,13 +67,6 @@ Our project aims to develop and compare multiple machine learning models to accu
 - Confusion matrix and performance metrics per model
 - Sentiment Analysis using TextBlob
 
-## Authors
-
-Sofia Karanukhova  
-Marcel Tobler    
-Felix Gehmair    
-Tim Gotschim    
-
 ## License
 
 Copyright (c) 2025 
