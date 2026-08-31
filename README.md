@@ -70,7 +70,7 @@ Our project aims to develop and compare multiple machine learning models to accu
 ## License
 
 Copyright (c) 2025 
-Team FNF – Fight Fake News (Sofia Karanukhova, Tim Gotschim, Felix Gehmair, Marcel Tobler)
+Team FNF – Fight Fake News (Sofiia Karnaukhova, Tim Gotschim, Felix Gehmair, Marcel Tobler)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to use, copy, modify, merge, publish, and distribute the Software for **educational and non-commercial purposes**, subject to the following conditions:
 
