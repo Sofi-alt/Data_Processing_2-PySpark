@@ -3,7 +3,7 @@
 This project explores the detection of fake news using **machine learning models based solely on textual content** (titles and article body). We use PySpark pipelines and multiple classification algorithms to build scalable and explainable models for misinformation detection.
 
 ## Project Structure
-
+Project done for the coursework on Data Processing 2 (Data Science)
 ```
 Project/  
 ├── data/  
