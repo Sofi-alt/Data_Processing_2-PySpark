@@ -41,14 +41,14 @@ Our project aims to develop and compare multiple machine learning models to accu
 
 ## Execute the notebooks in the following order:
 
-1. **Notebook 1 – Data Preprocessing**
+1. **Notebook 1 – Data Preprocessing** - notebook fully done by Sofiia Karnaukhova (h12322614)
     - Merges and shuffles real/fake news from ISOT
     - Cleans text: lowercasing, punctuation/stopword removal
     - Applies lemmatization
     - Converts text into TF-IDF features for ML models
 
 
-2. **Notebook 2 – Model Training & Evaluation**
+2. **Notebook 2 – Model Training & Evaluation** - notebook done by Sofiia Karnaukhova (h12322614)
     - Loads preprocessed data
     - Trains ML models: Logistic Regression, Naïve Bayes, Decision Tree, Random Forest
     - Evaluates performance: recall, precision, accuracy, F1
