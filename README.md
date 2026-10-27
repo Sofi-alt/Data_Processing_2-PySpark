@@ -48,7 +48,7 @@ Our project aims to develop and compare multiple machine learning models to accu
     - Converts text into TF-IDF features for ML models
 
 
-2. **Notebook 2 – Model Training & Evaluation** - notebook done by Sofiia Karnaukhova (h12322614)
+2. **Notebook 2 – Model Training & Evaluation** - notebook parts done by Sofiia Karnaukhova (h12322614): Logistic Regression & Naïve Bayes & RF + evaluation of the models;
     - Loads preprocessed data
     - Trains ML models: Logistic Regression, Naïve Bayes, Decision Tree, Random Forest
     - Evaluates performance: recall, precision, accuracy, F1
